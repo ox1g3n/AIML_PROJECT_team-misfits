@@ -1,9 +1,6 @@
-torch
-streamlit
+streamlit==1.31.0
 pandas
 numpy
-torch.nn
-pickle
-sklearn.preprocessing
-torch.optim
-os
+torch==2.1.0+cpu
+scikit-learn
+pickle5
